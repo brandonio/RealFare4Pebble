@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "brandonberookhim@gmail.com",
+    "longName": "RealFare",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "RealFare",
+    "uuid": "5069a320-4b02-4459-920b-8a46ee955522",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
